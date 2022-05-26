@@ -142,7 +142,17 @@ No modules.
 | <a name="output_vms"></a> [vms](#output\_vms) | n/a |
 <!-- END_TF_DOCS -->
 
-## Website
+## Who we are
+
+FullStackS is your trusted partner for your digital transformation. We offer a wide range of consulting and integration services with a focus on application performance monitoring and management as well as automation of your workloads at the edge, in the core and in the cloud.
+
+With our expertise, we support you in word and deed in the modernization of your applications from monoliths to containers and microservices, while keeping your business goals permanently in the focus of all our actions.
+
+We optimize your application, software and infrastructure landscape sustainably and provide you with all the tools and know-how you need for your digital success.
+
+Our range of services includes the "FullStack" from code to infrastructure.
+
+We deliver measurable results in a short timeframe and work closely with world-leading vendors such as Cisco / AppDynamics, SuSE / Rancher Labs and others.
 
 https://www.fullstacks.eu/
 
