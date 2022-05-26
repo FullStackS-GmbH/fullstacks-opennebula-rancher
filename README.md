@@ -4,6 +4,7 @@
 
 ![OpenNebula Systems](https://opennebula.io/wp-content/uploads/2020/04/opennebula_cloud_logo_white_bg.svg )
 
+
 ## Who we are
 
 FullStackS is your trusted partner for your digital transformation. We offer a wide range of consulting and integration services with a focus on application performance monitoring and management as well as automation of your workloads at the edge, in the core and in the cloud.
