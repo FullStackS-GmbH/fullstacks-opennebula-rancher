@@ -19,8 +19,6 @@ terraform {
   }
 }
 
-
-
 provider "opennebula" {
   endpoint = var.one_endpoint
   username = var.one_username
