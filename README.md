@@ -17,8 +17,6 @@ Our range of services includes the "FullStack" from code to infrastructure.
 
 We deliver measurable results in a short timeframe and work closely with world-leading vendors such as Cisco / AppDynamics, SuSE / Rancher Labs and others.
 
-https://www.fullstacks.eu/
-
 
 ## Use Case
 
